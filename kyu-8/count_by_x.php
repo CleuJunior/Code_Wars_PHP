@@ -26,7 +26,7 @@ function countBy($x, $n) {
     ----TESTE----
 */
 
-$x = 2;
-$n = 5;
+$x = 1;
+$n = 10;
 
 print_r(countBy($x, $n));
