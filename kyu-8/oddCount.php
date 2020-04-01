@@ -8,13 +8,8 @@ oddCount(15) //=> 7, i.e [1, 3, 5, 7, 9, 11, 13]
 
 */
 
-function oddCount($n) {
-    $count = 0;
-    for($i = 1; $i < $n; $i+=2){         
-        $count++; 
-                 
-    }
-    return $count; 
+function oddCount($n) { 
+    return floor($n / 2); 
 }
 
 $n = 15;
