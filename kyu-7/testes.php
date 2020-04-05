@@ -2,4 +2,24 @@
 
 
 
-var_dump(array_unique([16, 12, 33, 12, 56, 9, 11, 16]));
+
+
+
+
+
+
+
+
+
+
+
+
+
+//$str = 'take me to semynak';
+//$str = strrev($str);
+//$str = explode(" ", $str);
+//sort($str);
+//
+//foreach ($str as $value){
+//    echo " " . strrev($value);
+//}
