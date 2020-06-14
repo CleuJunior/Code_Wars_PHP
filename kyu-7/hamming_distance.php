@@ -1,5 +1,6 @@
 <?php
 
+// Desafio:  https://www.codewars.com/kata/5624e574ec6034c3a20000e6/train/php
 
 
 function hamming_distance(string $r, string $s): int {
