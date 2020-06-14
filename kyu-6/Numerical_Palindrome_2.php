@@ -1,5 +1,6 @@
 <?php
 
+// Desafio: https://www.codewars.com/kata/58de819eb76cf778fe00005c/train/php
 
 function palindrome($num)
 {   
